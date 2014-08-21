@@ -89,6 +89,16 @@
             },
             "description": "Evento que já está em sua 5ª edição e que conta com profissionais reconhecidos pelo mercado nacional para compartilhar seus conhecimentos nas 20 palestras que compõem a grade do evento.",
             "url": "http://devday.devisland.com/"
+        },
+        {
+            "name": "RubyConf 2014",
+            "date": "2014-08-28",
+            "local": {
+                "name": "Teatro Frei Caneca",
+                "googlemaps_link": "https://goo.gl/maps/6hUUS"
+            },
+            "description": "RubyConf Brasil 2014 é um evento único voltado para desenvolvedores que desejam aprender ou atualizar seus conhecimentos sobre Ruby, Ruby on Rails, Técnicas Ágeis, JavaScript, NoSQL, Segurança e muito mais.",
+            "url": "http://www.rubyconf.com.br/"
         }
     ]
 }
