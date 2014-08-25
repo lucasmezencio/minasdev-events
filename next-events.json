@@ -31,6 +31,16 @@
             "url": "http://frontinterior.com.br/"
         },
         {
+            "name": "Front in Bahia",
+            "date": "2014-09-13",
+            "local": {
+                "name": "SENAI CIMATEC",
+                "googlemaps_link": "https://goo.gl/maps/yY90p"
+            },
+            "description": "Depois do sucesso da primeira edição o Front In Bahia chega em sua segunda edição, sendo considerado o maior e melhor evento para desenvolvedores de tecnologias web front end da Bahia.",
+            "url": "http://www.frontinbahia.com.br/"
+        },
+        {
             "name": "W3C WEB.BR",
             "date": "2014-09-25",
             "local": {
