@@ -51,6 +51,16 @@
             "url": "http://conferenciaweb.w3c.br/"
         },
         {
+            "name": "Dev in Company BH",
+            "date": "2014-09-20",
+            "local": {
+                "name": "Fumsoft",
+                "googlemaps_link": "https://goo.gl/maps/m7cKK"
+            },
+            "description": "O Dev in Company surge para consolidar e suprir uma deficiência de comunicação entre empresas e profissionais do mercado, abrir portas para quem deseja levar conteúdo de qualidade para a comunidade e possibilitar uma maior interação e experiência entre os participantes, aumentando assim o network entre os presentes.",
+            "url": "http://devincompany.org/"
+        },
+        {
             "name": "Front-End Carioca",
             "date": "2014-09-27",
             "local": {
