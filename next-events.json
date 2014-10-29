@@ -129,6 +129,46 @@
             },
             "description": "Evento organizado pela PUC Minas e pelo GDG Belo Horizonte  para marco do Simpósio Mineiro de Engenharia de Software.",
             "url": "http://www.gdgbh.org/puc_minas_08_14.html"
+        },
+        {
+            "name": "DevFest SP",
+            "date": "2014-11-22",
+            "local": {
+                "name": "Centro de Convenções Rebouças",
+                "googlemaps_link": "https://goo.gl/maps/W2GDV"
+            },
+            "description": "Simplesmente a maior confêrencia da comunidade Google.",
+            "url": "http://sp.devfest.com.br/"
+        },
+        {
+            "name": "DevFest Sudeste",
+            "date": "2014-11-08",
+            "local": {
+                "name": "Centro de Convenções Bolsa do Rio",
+                "googlemaps_link": "https://goo.gl/maps/lqOeM"
+            },
+            "description": "O maior evento do Sudeste relacionado ao Google cuidadosamente elaborado para você da comunidade GDG! Palestrantes impressionantes e muita diversão!",
+            "url": "http://sudeste.devfest.com.br/"
+        },
+        {
+            "name": "Rupy Brazil",
+            "date": "2014-11-29",
+            "local": {
+                "name": "FARO HOTEL",
+                "googlemaps_link": "https://goo.gl/maps/48tFJ"
+            },
+            "description": "A RuPy reúne as comunidades de desenvolvedores Javascript, Ruby e Python para intensificar a troca de conhecimento e experiência, comparar problemas e soluções, partilhar metodologias e filosofia, sempre com o objetivo de proporcionar a todos novos olhares e muitas ideias.",
+            "url": "http://rupy.com.br/"
+        },
+        {
+            "name": "Worpdress Meetup de Novembro/2014",
+            "date": "2014-11-01",
+            "local": {
+                "name": "UNI-BH",
+                "googlemaps_link": "https://goo.gl/maps/g1R9V"
+            },
+            "description": "Está edição do Meetup terá o objetivo de demonstrar como o WordPress foi projetado e construído, analisando seus fundamentos, para possibilitar ampliação de seu uso no desenvolvimento e também na customização de forma correta.",
+            "url": "http://www.meetup.com/WordPressBeloHorizonte/"
         }
     ]
 }
