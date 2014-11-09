@@ -169,6 +169,16 @@
             },
             "description": "Está edição do Meetup terá o objetivo de demonstrar como o WordPress foi projetado e construído, analisando seus fundamentos, para possibilitar a ampliação de seu uso no desenvolvimento e também na customização de forma correta.",
             "url": "http://www.meetup.com/WordPressBeloHorizonte/"
+        },
+        {
+            "name": "Front in Floripa",
+            "date": "2014-11-21",
+            "local": {
+                "name": "SENAI/CTAI",
+                "googlemaps_link": "https://goo.gl/maps/v02zI"
+            },
+            "description": "O Front In Floripa 2014 é um evento baseado em outros eventos regionais com o mesmo formato, sendo eles: frontinbh,frontinrio,frontinlondrina, frontinsampa e frontincuritiba.",
+            "url": "http://frontinfloripa.com.br/"
         }
     ]
 }
