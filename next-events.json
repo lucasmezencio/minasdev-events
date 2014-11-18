@@ -179,6 +179,16 @@
             },
             "description": "O Front In Floripa 2014 é um evento baseado em outros eventos regionais com o mesmo formato, sendo eles: frontinbh,frontinrio,frontinlondrina, frontinsampa e frontincuritiba.",
             "url": "http://frontinfloripa.com.br/"
+        },
+        {
+            "name": "PHPizza",
+            "date": "2014-11-27",
+            "local": {
+                "name": "Pizzarella",
+                "googlemaps_link": "http://goo.gl/Je2EEJ"
+            },
+            "description": "A comunidade de PHP em Minas Gerais está parada há muito tempo. Vamos mudar isso.",
+            "url": "http://www.meetup.com/PHPMG-Meetup-Belo-Horizonte/"
         }
     ]
 }
