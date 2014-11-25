@@ -197,8 +197,18 @@
                 "name": "Hangouts",
                 "googlemaps_link": "https://plus.google.com/events/coj62j1b2dpm5vj3lpnve9ionlc"
             },
-            "description": "Evento internacional com o objetivo de disseminar o Polymer e nesta edição haverá um overview sobre a tecnologia e um codelab super legal.",
+            "description": "Hey Devs, é hackademia com Polymer! Durante o mês de novembro, comunidades de desenvolvedores ao redor do mundo estarão realizando eventos politécnicos sobre o Polymer. E esta é a edição de Belo Horizonte.",
             "url": "https://plus.google.com/events/coj62j1b2dpm5vj3lpnve9ionlc"
+        },
+        {
+            "name": "Polymer Hackademic",
+            "date": "2014-11-29",
+            "local": {
+                "name": "Hangouts",
+                "googlemaps_link": "https://plus.google.com/events/c7ku70m48t4crv56hn22avtocpk"
+            },
+            "description": "Hey Devs, é hackademia com Polymer! Durante o mês de novembro, comunidades de desenvolvedores ao redor do mundo estarão realizando eventos politécnicos sobre o Polymer. E esta é a edição de Maceió.",
+            "url": "https://plus.google.com/events/c7ku70m48t4crv56hn22avtocpk"
         }
     ]
 }
