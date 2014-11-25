@@ -189,6 +189,16 @@
             },
             "description": "A comunidade de PHP em Minas Gerais está parada há muito tempo. Vamos mudar isso.",
             "url": "http://www.meetup.com/PHPMG-Meetup-Belo-Horizonte/"
+        },
+        {
+            "name": "Polymer Hackademic",
+            "date": "2014-11-27",
+            "local": {
+                "name": "Hangouts",
+                "googlemaps_link": "https://plus.google.com/events/coj62j1b2dpm5vj3lpnve9ionlc"
+            },
+            "description": "Evento internacional com o objetivo de disseminar o Polymer e nesta edição haverá um overview sobre a tecnologia e um codelab super legal.",
+            "url": "https://plus.google.com/events/coj62j1b2dpm5vj3lpnve9ionlc"
         }
     ]
 }
