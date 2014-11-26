@@ -1,6 +1,16 @@
 {
     "events": [
         {
+            "name": "Meetup SF11BH",
+            "date": "2014-12-02",
+            "local": {
+                "name": "CCCP - Belo Horizonte",
+                "googlemaps_link": "https://goo.gl/maps/pDx4F"
+            },
+            "description": "Meetup de Lançamento - #SF11BH | Venha conhecer os detalhes do programa da Startup Farm e tirar todas as dúvidas conosco!",
+            "url": "http://www.eventick.com.br/meetup-de-lancamento-sf11bh"
+        },
+        {
             "name": "BrazilJS Conf",
             "date": "2014-08-21",
             "local": {
