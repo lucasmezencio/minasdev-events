@@ -1,12 +1,12 @@
 {
     "events": [
         {
-          "date":"2014-08-26T19:30-03:00",
+          "date":"2014-12-18T19:30-03:00",
           "local": {
-            "name":"Stadt Jever",
+            "name":"Rock Esporte Club",
             "address": "Avenida do Contorno, 5771 - <span itemprop='addressLocality'>Funcionários.</span>",
-            "googlemaps_link": "https://goo.gl/maps/F5DgM",
-            "site": "https://www.facebook.com/JeverPub"
+            "googlemaps_link": "http://goo.gl/YaARfR",
+            "site": "https://www.facebook.com/rockesporteclub"
           }
         }
     ]
