@@ -219,6 +219,16 @@
             },
             "description": "Hey Devs, é hackademia com Polymer! Durante o mês de novembro, comunidades de desenvolvedores ao redor do mundo estarão realizando eventos politécnicos sobre o Polymer. E esta é a edição de Maceió.",
             "url": "https://plus.google.com/events/c7ku70m48t4crv56hn22avtocpk"
+        },
+        {
+            "name": "Android for Dummies",
+            "date": "2014-12-14",
+            "local": {
+                "name": "SEED",
+                "googlemaps_link": "http://goo.gl/gDwLmO"
+            },
+            "description": "Se você não sabe nada (ou quase nada) sobre desenvolvimento Android, esse evento é pra você!",
+            "url": "http://buff.ly/1vJ0ETr"
         }
     ]
 }
