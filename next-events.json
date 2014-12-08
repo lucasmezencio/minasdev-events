@@ -1,6 +1,16 @@
 {
     "events": [
         {
+            "name": "Encontro Python BH",
+            "date": "2014-12-13",
+            "local": {
+                "name": "Intip",
+                "googlemaps_link": "https://goo.gl/maps/PdiUr"
+            },
+            "description": "Esse será o quinto Encontro da Comunidade Python de Belo Horizonte. Esse é um evento sem fins lucrativos que tem como objetivo reunir estudantes e profissionais entusiastas da linguagem Python a fim de propiciar uma forma de compartilhamento de informações e experiências relacionadas a esta linguagem que a cada dia vem conquistando cada vez mais espaço no mercado.",
+            "url": "http://www.meetup.com/Belo-Horizonte-Python-User-Group/events/219129163/"
+        },
+        {
             "name": "Meetup SF11BH",
             "date": "2014-12-02",
             "local": {
