@@ -1,6 +1,26 @@
 {
     "events": [
         {
+            "name": "2° Minas Dev Beer",
+            "date": "2014-12-18",
+            "local": {
+                "name": "Rock Esporte Club",
+                "googlemaps_link": "https://goo.gl/maps/DK4jv"
+            },
+            "description": "Pessoal, Agora é oficial! O 2° Minas Dev Beer está marcado. E como prometido temos uma novidade! O Twitter, a SendGrid e a Toptal vão patrocinar o evento, ou seja, cerveja de graça \o/!! Venha bater um papo e comemorar com a gente!! Esperamos vocês lá!",
+            "url": "http://www.meetup.com/Minas-Dev-Beer/events/218884896/"
+        },
+        {
+            "name": "Hack Night - Build realtime systems",
+            "date": "2014-12-19",
+            "local": {
+                "name": "Auditório MGTI",
+                "googlemaps_link": "https://goo.gl/maps/to7D5"
+            },
+            "description": "Estamos organizando uma hack night na noite do dia 18 de dezembro. O tema será apps em tempo real, como o tema é de grande abordagem, não deixem nenhuma ideia de fora.",
+            "url": "http://www.meetup.com/sanpedrovalley/events/219156080/"
+        },
+        {
             "name": "Encontro Python BH",
             "date": "2014-12-13",
             "local": {
