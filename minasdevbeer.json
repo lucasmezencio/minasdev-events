@@ -1,12 +1,12 @@
 {
     "events": [
         {
-          "date":"2014-08-26T19:30-02:00",
+          "date":"2014-12-18T19:30-02:00",
           "local": {
-            "name":"Stadt Jever",
-            "address": "Avenida do Contorno, 5771 - <span itemprop='addressLocality'>Funcionários.</span>",
-            "googlemaps_link": "https://goo.gl/maps/F5DgM",
-            "site": "https://www.facebook.com/JeverPub"
+            "name":"Rock Esportre Club",
+            "address": "Avenida Getúlio Vargas, 809 - <span itemprop='addressLocality'>Savassi.</span>",
+            "googlemaps_link": "https://goo.gl/maps/31iIh",
+            "site": "http://www.meetup.com/Minas-Dev-Beer/events/218884896/"
           }
         }
     ]
