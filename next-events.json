@@ -32,6 +32,10 @@
         {
             "name": "Encontro Women Techmakers",
             "date": "2015-05-09",
+            "local": {
+                "name": "Belo Horizonte",
+                "googlemaps_link": "https://goo.gl/maps/vRONJ"
+            },
             "description": "O WTM é um programa do Google para incentivar a participação de mulheres na tecnologia. Além da importância da inclusão do gênero na área, pensamos que quanto mais diversidade temos, mais visões diferentes sobre um mesmo produto e maior qualidade.",
             "url": "http://www.meetup.com/GDG-BH/events/222247655/"
         },
