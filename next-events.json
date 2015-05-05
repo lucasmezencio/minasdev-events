@@ -1,6 +1,15 @@
 {
     "events": [
         {
+            "name": "NodeSchool BH",
+            "date": "2015-05-23",
+            "local": {
+                "name": "Belo Horizonte"
+            },
+            "description": "NodeSchool é um projeto educativo guiado pela comunidade que visa ensinar JavaScript e Node.js de uma maneira interativa e, auto guiada.",
+            "url": "http://nodeschool.io/belo-horizonte"
+        },
+        {
             "name": "BrazilJS Conf 2015",
             "date": "2015-08-21",
             "local": {
