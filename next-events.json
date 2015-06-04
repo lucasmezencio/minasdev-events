@@ -1,6 +1,72 @@
 {
     "events": [
+	{
+            "name": "beer.php",
+            "date": "2015-06-09",
+            "local": {
+                "name": "Rock Esporte Bar",
+                "googlemaps_link": "https://goo.gl/Ct6Tkv"
+            },
+            "description": "Encontro informal mensal do PHP-MG.",
+            "url": "http://www.meetup.com/pt/PHP-MG/events/221217510/"
+        },
         {
+            "name": "Minas Testing Conference 2015",
+            "date": "2015-06-13",
+            "local": {
+                "name": "Auditório da UNA",
+                "googlemaps_link": "https://goo.gl/7RB0rO"
+            },
+            "description": "O Minas Testing Conference é um evento voltado para as áreas de Teste e Qualidade de Software, cuja proposta é alavancar e fortalecer a comunidade de Testers de Minas Gerais visando promover um network ímpar entre os participantes, proporcionando assim o compartilhamento de experiências e conhecimento, contando com a participação de analistas, empresários, especialistas e testers de várias partes do Brasil.",
+            "url": "http://www.minastestingconference.com.br/"
+        },
+        {
+            "name": "BHACK 2015",
+            "date": "2015-06-20",
+            "local": {
+                "name": "Universidade Fumec",
+                "googlemaps_link": "https://goo.gl/hNM0l8"
+            },
+            "description": "A Bhack é uma conferência voltada à Segurança da Informação (SI). Em 2015, sua terceira edição ocorrerá em Belo Horizonte, nos dias 20 e 21 de Junho.",
+            "url": "http://www.bhack.com.br/2015/"
+        },
+        {
+            "name": "11° Encontro Python BH",
+            "date": "2015-06-20",
+            "description": "Encontro da Comunidade Python de Belo Horizonte. Esse é um evento sem fins lucrativos que tem como objetivo reunir estudantes e profissionais entusiastas da linguagem Python a fim de propiciar uma forma de compartilhamento de informações e experiências relacionadas a esta linguagem que a cada dia vem conquistando cada vez mais espaço no mercado.",
+            "url": "http://www.meetup.com/pt/Belo-Horizonte-Python-User-Group/events/219926243/"
+        },
+        {
+            "name": "DevCommerce Conference",
+            "date": "2015-06-20",
+            "local": {
+                "name": "Hotel Renaissance",
+                "googlemaps_link": "https://goo.gl/iNUIGz"
+            },
+            "description": "O iMasters DEVCommerce Conference, edição 2015, se consolida como evento referência em desenvolvimento de alto nível para e-commerce, reunindo os líderes de desenvolvimento do setor e mais de 800 congressistas, com conteúdo avançado e formato extremamente dinâmico.",
+            "url": "http://devcommerce.imasters.com.br/"
+        },
+        {
+            "name": "Front-End Carioca",
+            "date": "2015-09-26",
+            "local": {
+                "name": "Clube de Engenharia",
+                "googlemaps_link": "https://goo.gl/3hZ9st"
+            },
+            "description": "O Front-end Carioca surgiu de uma ideia dentro da comunidade de desenvolvedores web, tendo como objetivo enriquecer o conhecimento profissional através de ciclos de palestras, workshop, networking e é claro, bastante incentivo.",
+            "url": "http://frontendcarioca.com.br/"
+        },
+        {
+            "name": "Mobile Summit",
+            "date": "2015-09-26",
+            "local": {
+                "name": "Espaço de Eventos Nós Coworking",
+                "googlemaps_link": "https://goo.gl/9oxNwG"
+            },
+            "description": "A mobilidade é uma revolução diária, milhares de pessoas conectadas e em busca de soluções que facilitem suas vidas, tornando-a um dos mercados mais promissores. Fique por dentro das oportunidades e novidades no desenvolvimento mobile.",
+            "url": "http://www.msummit.com.br/"
+        },
+	{
             "name": "NodeSchool BH",
             "date": "2015-05-23",
             "local": {
