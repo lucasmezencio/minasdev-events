@@ -33,6 +33,9 @@
         {
             "name": "11° Encontro Python BH",
             "date": "2015-06-20",
+            "local": {
+                "name": "Não informado."
+            },
             "description": "Encontro da Comunidade Python de Belo Horizonte. Esse é um evento sem fins lucrativos que tem como objetivo reunir estudantes e profissionais entusiastas da linguagem Python a fim de propiciar uma forma de compartilhamento de informações e experiências relacionadas a esta linguagem que a cada dia vem conquistando cada vez mais espaço no mercado.",
             "url": "http://www.meetup.com/pt/Belo-Horizonte-Python-User-Group/events/219926243/"
         },
