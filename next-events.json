@@ -50,6 +50,16 @@
             "url": "http://devcommerce.imasters.com.br/"
         },
         {
+            "name": "NodeGirls",
+            "date": "2015-07-25",
+            "local": {
+                "name": "Una Barro Preto",
+                "googlemaps_link": "https://goo.gl/aAluhI"
+            },
+            "description": "NodeGirls é um projeto Open Source organizado por voluntários com dois objetivos: criar um currículo de programação de alta qualidade e hospedar eventos de aprendizado para as mulheres.",
+            "url": "http://nodegirls.com"
+        },
+        {
             "name": "Front-End Carioca",
             "date": "2015-09-26",
             "local": {
