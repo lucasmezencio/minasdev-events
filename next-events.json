@@ -50,6 +50,16 @@
             "url": "http://devcommerce.imasters.com.br/"
         },
         {
+            "name": "NodeGirls",
+            "date": "2015-07-25",
+            "local": {
+                "name": "Una Barro Preto",
+                "googlemaps_link": "https://goo.gl/aAluhI"
+            },
+            "description": "O iMasters DEVCommerce Conference, edição 2015, se consolida como evento referência em desenvolvimento de alto nível para e-commerce, reunindo os líderes de desenvolvimento do setor e mais de 800 congressistas, com conteúdo avançado e formato extremamente dinâmico.",
+            "url": "http://devcommerce.imasters.com.br/"
+        },
+        {
             "name": "Front-End Carioca",
             "date": "2015-09-26",
             "local": {
