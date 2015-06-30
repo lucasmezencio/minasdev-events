@@ -79,7 +79,17 @@
             "description": "A mobilidade é uma revolução diária, milhares de pessoas conectadas e em busca de soluções que facilitem suas vidas, tornando-a um dos mercados mais promissores. Fique por dentro das oportunidades e novidades no desenvolvimento mobile.",
             "url": "http://www.msummit.com.br/"
         },
-	{
+        {
+            "name": "DevFest Sudeste",
+            "date": "2015-10-24",
+            "local": {
+                "name": "À confirmar",
+                "googlemaps_link": ""
+            },
+            "description": "Se você é apaixonado por tecnologias Google, esse evento é pra você!",
+            "url": "http://sudeste.devfest.com.br"
+        },
+	      {
             "name": "NodeSchool BH",
             "date": "2015-05-23",
             "local": {
