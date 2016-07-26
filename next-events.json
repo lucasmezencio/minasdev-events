@@ -1,6 +1,16 @@
 {
     "events": [
 	{
+            "name": "DevInCompany",
+            "date": "2016-07-30",
+            "local": {
+                "name": "Thoughtworks",
+                "googlemaps_link": "https://goo.gl/maps/wz8rcFqNuBm"
+            },
+            "description": "O Dev in Company surge para consolidar e suprir uma deficiência de comunicação entre empresas e profissionais do mercado, abrir portas para quem deseja levar conteúdo de qualidade para a comunidade e possibilitar uma maior interação e experiência entre os participantes, aumentando assim o network entre os presentes.",
+            "url": "http://devincompany.in/"
+        },
+	{
             "name": "beer.php",
             "date": "2015-06-09",
             "local": {
