@@ -1,6 +1,16 @@
 {
     "events": [
 	{
+            "name": "DevFestBH",
+            "date": "2016-11-05",
+            "local": {
+                "name": "Ouro Minas Hotel em BH",
+                "googlemaps_link": "https://goo.gl/maps/NX8RMsfZ29L2"
+            },
+            "description": "O DevFest BH 2016 é um evento organizado pela comunidade GDG Belo Horizonte. Atividades diversas acontecem em um DevFest: desde palestras até hackathons.",
+            "url": "http://devfestbh.com.br/"
+        },
+	{
             "name": "DevInCompany",
             "date": "2016-07-30",
             "local": {
