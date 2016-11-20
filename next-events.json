@@ -1,5 +1,15 @@
 {
     "events": [
+	 {
+            "name": "Ionic Bootcamp",
+            "date": "2016-11-26",
+            "local": {
+                "name": "CI&T Belo Horizonte",
+                "googlemaps_link": "https://goo.gl/maps/f9LynEyr2Pr"
+            },
+            "description": "Workshop presencial e bem completo sobre Ionic 2 com o Mestre Joselito Júnior.",
+            "url": "https://ionicbootcamp.com/"
+        },
 	{
             "name": "DevFestBH",
             "date": "2016-11-05",
