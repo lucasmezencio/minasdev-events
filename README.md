@@ -4,12 +4,12 @@ Repositório central de eventos da comunidade Minas Dev
 
 ## Como Adicionar um Evento?
 
-Para adicionar um evento e contribuir com este respositório, [crie uma issue](https://github.com/minasdev/minasdev-events/issues) utilizando o seguinte template:
+Para adicionar um evento e contribuir com este respositório, [crie uma issue\*](https://github.com/minasdev/minasdev-events/issues/new) utilizando o template abaixo:
 
 
 ### Titúlo da Issue:
 ```
-[Nome do Evento] / [Data do Evento]
+[Nome do Evento] / [Data do Evento: YYYY-MM-DD]
 ```
 
 ### Conteúdo da Issue:
@@ -19,3 +19,5 @@ Para adicionar um evento e contribuir com este respositório, [crie uma issue](h
 - Data: YYYY-MM-DD
 - Descrição: Rápida descrição
 ```
+
+\*Confira nesta [issue](https://github.com/minasdev/minasdev-events/issues/15) um exemplo real.
