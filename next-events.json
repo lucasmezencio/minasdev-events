@@ -1,6 +1,16 @@
 {
     "events": [
 	 {
+            "name": "FEMUG-MG",
+            "date": "2017-01-26",
+            "local": {
+                "name": "CI&T Belo Horizonte",
+                "googlemaps_link": "https://goo.gl/maps/f9LynEyr2Pr"
+            },
+            "description": "O FEMUG trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados a front-end e tecnologias periféricas.",
+            "url": "https://goo.gl/YtgxGs"
+        },
+	 {
             "name": "Ionic Bootcamp",
             "date": "2016-11-26",
             "local": {
