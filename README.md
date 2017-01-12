@@ -14,9 +14,8 @@ Para adicionar um evento e contribuir com este respositório, [crie uma issue](h
 
 ### Conteúdo da Issue:
 ```
-- Evento: [Nome do Evento](URL)
+- Evento: [Nome do Evento](URL/Site do Evento)
 - Local: [Local](URL do Google Maps)
-- Data: *YYYY-MM-DD*
-- Descrição:
-Rápida descrição
+- Data: YYYY-MM-DD
+- Descrição: Rápida descrição
 ```
