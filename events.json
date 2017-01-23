@@ -21,6 +21,16 @@
             "url": "https://www.meetup.com/pt-BR/Bitcoin-BH/events/234551901/"
         },
         {
+            "name": "Encontro Women Techmakers",
+            "date": "2017-01-31",
+            "local": {
+                "name": "Avenue Code",
+                "googlemaps_link": "https://goo.gl/maps/B1NxySEKBH22"
+            },
+            "description": "Nosso encontro mensal do Women Techmakers BH está chegando! ",
+            "url": "https://www.meetup.com/pt-BR/GDG-BH/events/237041528/"
+        },
+        {
             "name": "Confraternização GDG BH",
             "date": "2017-01-27",
             "local": {
