@@ -1,6 +1,36 @@
 {
     "events": [
         {
+            "name": "Go 1.8 Release Party",
+            "date": "2017-02-16",
+            "local": {
+                "name": "The Plant co-working",
+                "googlemaps_link": "https://goo.gl/maps/pWwd9nnH38G2"
+            },
+            "description": "Para celebrar o lançamento do Go 1.8 nós estamos organizando um evento mundial com meetups acontecendo no mesmo dia ao redor do mundo no mesmo dia.",
+            "url": "https://www.meetup.com/pt-BR/go-belo-horizonte/events/236712496/"
+        },
+        {
+            "name": "Encontro Bitcoin BH",
+            "date": "2017-02-14",
+            "local": {
+                "name": "GUAJA Casa",
+                "googlemaps_link": "https://goo.gl/maps/FkGnRAmZKZ12"
+            },
+            "description": "Venha para o encontro dos entusiastas de Bitcoin em BH",
+            "url": "https://www.meetup.com/pt-BR/Bitcoin-BH/events/234551901/"
+        },
+        {
+            "name": "Confraternização GDG BH",
+            "date": "2017-01-27",
+            "local": {
+                "name": "Una Campus Barro Preto",
+                "googlemaps_link": "https://goo.gl/maps/myq8VtPMPmt"
+            },
+            "description": "Confraternização do GDG BH. Iremos contar um pouco sobre como foi este grande ano de 2016 e quais as novidades que vem por ai para o ano de 2017.",
+            "url": "https://www.meetup.com/pt-BR/GDG-BH/events/236970490/"
+        },
+        {
             "name": "FEMUG-MG",
             "date": "2017-01-26",
             "local": {
@@ -19,6 +49,16 @@
             },
             "description": "No encontro de janeiro, nossa convidada especial é a Serena Fernandes, e ela vai passar os paranaues da Metodologia Agíl.",
             "url": "https://www.sympla.com.br/30-encontro-do-ixdabh__111634"
+        },
+        {
+            "name": "#UseThePlatform with Polymer Project",
+            "date": "2017-01-24",
+            "local": {
+                "name": "Hangouts",
+                "googlemaps_link": "https://www.meetup.com/pt-BR/GDG-BH/events/236984788/"
+            },
+            "description": "Hangouts sobre Polymer e Web Components com Afonso Pacifer.",
+            "url": "https://www.meetup.com/pt-BR/GDG-BH/events/236984788/"
         },
         {
             "name": "Ionic Bootcamp",
