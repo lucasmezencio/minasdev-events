@@ -1,6 +1,16 @@
 {
     "events": [
         {
+            "name": "Encontro Bitcoin BH",
+            "date": "2017-03-14",
+            "local": {
+                "name": "GUAJA Casa",
+                "googlemaps_link": "https://goo.gl/maps/FkGnRAmZKZ12"
+            },
+            "description": "Venha para o encontro dos entusiastas de Bitcoin em BH",
+            "url": "https://www.meetup.com/pt-BR/Bitcoin-BH/events/234551933/"
+        },
+        {
             "name": "Go 1.8 Release Party",
             "date": "2017-02-16",
             "local": {
