@@ -71,6 +71,16 @@
             "url": "https://www.sympla.com.br/30-encontro-do-ixdabh__111634"
         },
         {
+            "name": "20º devbeers Belo Horizonte",
+            "date": "2017-01-24",
+            "local": {
+                "name": "Itatiaia Rádio Bar",
+                "googlemaps_link": "https://goo.gl/maps/p4YLphRGwrm"
+            },
+            "description": "Mais uma vez vamos unir devs para conversar sobre a sua linguagem de programação favorita e tomar uma gelada, junte-se a nós! ",
+            "url": "https://www.sympla.com.br/devbeers-bh-20__112643"
+        },
+        {
             "name": "#UseThePlatform with Polymer Project",
             "date": "2017-01-24",
             "local": {
