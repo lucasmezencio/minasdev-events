@@ -2,3 +2,4 @@
 - Local: [Local](URL do Google Maps)
 - Data: YYYY-MM-DD
 - Descrição: Rápida descrição
+- Comunidade: Qual comunidade está promovendo o evento?
