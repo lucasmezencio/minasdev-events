@@ -31,6 +31,16 @@
             "url": "https://www.meetup.com/pt-BR/Bitcoin-BH/events/234551901/"
         },
         {
+            "name": "15º CocoaTalks BH",
+            "date": "2017-01-31",
+            "local": {
+                "name": "CI&T",
+                "googlemaps_link": "https://goo.gl/maps/vSSajHPRZCP2"
+            },
+            "description": "CocoaHeads é um grupo formado por desenvolvedores (profissionais e iniciantes), que se organizam para reunir pessoas com a mesma paixão: Programação para os iDevices da Apple (OSX e iOS).",
+            "url": "https://www.meetup.com/pt-BR/CocoaHeads-Talks-BH/events/237132787/"
+        },
+        {
             "name": "Encontro Women Techmakers",
             "date": "2017-01-31",
             "local": {
