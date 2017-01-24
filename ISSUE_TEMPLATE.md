@@ -1,0 +1,4 @@
+- Evento: [Nome do Evento](URL/Site do Evento)
+- Local: [Local](URL do Google Maps)
+- Data: YYYY-MM-DD
+- Descrição: Rápida descrição
