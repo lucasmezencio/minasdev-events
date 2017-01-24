@@ -71,6 +71,16 @@
             "url": "https://goo.gl/YtgxGs"
         },
         {
+            "name": "PyData BH #1",
+            "date": "2017-01-26",
+            "local": {
+                "name": "ThoughtWorks",
+                "googlemaps_link": "https://goo.gl/maps/r9zrsqcqBwq"
+            },
+            "description": "PyData é um grupo para usuários e desenvolvedores de ferramentas de análise de dados para compartilhar ideias e aprender uns com os outros.",
+            "url": "https://www.meetup.com/PyData-Belo-Horizonte/events/237074854"
+        },
+        {
             "name": "30º Encontro do IxDA/BH",
             "date": "2017-01-26",
             "local": {
