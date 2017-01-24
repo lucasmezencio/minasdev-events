@@ -91,6 +91,16 @@
             "url": "https://www.sympla.com.br/30-encontro-do-ixdabh__111634"
         },
         {
+            "name": "MEETUP#2 - She's Tech",
+            "date": "2017-01-25",
+            "local": {
+                "name": "Espaço 104",
+                "googlemaps_link": "https://goo.gl/maps/8XfvZRD9Yi82"
+            },
+            "description": "She's tech se dedica ao fortalecimento da comunidade feminina empreendedora no ecossistema de startups.",
+            "url": "https://www.meetup.com/pt-BR/Shes-Tech/events/237026001/"
+        },
+        {
             "name": "20º devbeers Belo Horizonte",
             "date": "2017-01-24",
             "local": {
